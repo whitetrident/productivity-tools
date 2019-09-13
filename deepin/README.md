@@ -1,5 +1,9 @@
 <h1 align="center">生产力（deepin篇）</h1>
 
+官网: https://www.deepin.org/
+
+安装比win简单，安装后直接用
+
 ## 目录
 
 - [程序](#程序)
