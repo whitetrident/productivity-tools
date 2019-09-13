@@ -8,6 +8,8 @@
 
 - [Full Page Screen Capture](#Full%20Page%20Screen%20Capture)
 
+- [gayhub](#gayhub)
+
 - [spider](#spider)
 
 - [Tampermonkey](#Tampermonkey)
@@ -46,6 +48,11 @@
 ### [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 
 全页截屏
+
+### [gayhub](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
+
+让你更轻松浏览github
+![](./img/sp190913_181051.png)
 
 ### [spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
 
