@@ -8,7 +8,9 @@
 
 - [Full Page Screen Capture](#Full%20Page%20Screen%20Capture)
 
-- [gayhub](#gayhub)
+- [GitZip for github](#GitZip%20for%20github)
+
+- [Sourcegraph](#Sourcegraph)
 
 - [spider](#spider)
 
@@ -49,10 +51,13 @@
 
 全页截屏
 
-### [gayhub](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
+### [GitZip for github](https://chrome.google.com/webstore/detail/aeinmfddnniiloadoappmdnffcbffnjg)
 
-让你更轻松浏览github
-![](./img/sp190913_181051.png)
+能在github项目中选中几项来下载
+
+### [Sourcegraph](https://chrome.google.com/webstore/detail/dgjhfomjieaadpoljlnidmbgkdffpack)
+
+让你能向在ide内访问项目一样看github项目
 
 ### [spider](https://chrome.google.com/webstore/detail/spider-a-smart-web-scrapi/hhblpocflefpmmfibmajdfcjdkeafpen)
 
